@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Étienne Décode</title>
+    <link href="https://etiennedo.github.io/etiennedecode/feed.xml" rel="self" />
+    <link href="https://etiennedo.github.io/etiennedecode" />
+    <updated>2026-04-10T21:43:05-04:00</updated>
+    <author>
+        <name>Étienne Doré</name>
+    </author>
+    <id>https://etiennedo.github.io/etiennedecode</id>
+
+    <entry>
+        <title>My first blog post</title>
+        <author>
+            <name>Étienne Doré</name>
+        </author>
+        <link href="https://etiennedo.github.io/etiennedecode/my-first-blog-post/"/>
+        <id>https://etiennedo.github.io/etiennedecode/my-first-blog-post/</id>
+
+        <updated>2026-04-10T21:43:05-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'm making a blog post! Here's a list banana apple eat sleep repeat
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm making a blog post!</p>
+<p>Here's a list</p>
+<ul>
+<li>banana</li>
+<li>apple</li>
+</ul>
+<ol>
+<li>eat</li>
+<li>sleep</li>
+<li>repeat</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>

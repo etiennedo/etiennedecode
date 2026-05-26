@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Étienne Décode",
+    "description": "",
+    "home_page_url": "https://etiennedo.github.io/etiennedecode",
+    "feed_url": "https://etiennedo.github.io/etiennedecode/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Étienne Doré"
+    },
+    "items": [
+        {
+            "id": "https://etiennedo.github.io/etiennedecode/my-first-blog-post/",
+            "url": "https://etiennedo.github.io/etiennedecode/my-first-blog-post/",
+            "title": "My first blog post",
+            "summary": "I'm making a blog post! Here's a list banana apple eat sleep repeat",
+            "content_html": "<p>I'm making a blog post!</p>\n<p>Here's a list</p>\n<ul>\n<li>banana</li>\n<li>apple</li>\n</ul>\n<ol>\n<li>eat</li>\n<li>sleep</li>\n<li>repeat</li>\n</ol>",
+            "author": {
+                "name": "Étienne Doré"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-10T21:43:05-04:00",
+            "date_modified": "2026-04-10T21:43:05-04:00"
+        }
+    ]
+}
